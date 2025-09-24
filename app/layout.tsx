@@ -10,7 +10,6 @@ export const metadata: Metadata = {
   title: "Follo - Your Spiritual Journey Companion",
   description:
     "Follo helps you build meaningful spiritual rhythms and daily practices that deepen your relationship with God.",
-    generator: 'v0.dev'
 }
 
 export default function RootLayout({

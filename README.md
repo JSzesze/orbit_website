@@ -1,30 +1,84 @@
-# Follo website design
+# Follo - Your Spiritual Journey Companion
 
-*Automatically synced with your [v0.dev](https://v0.dev) deployments*
+Follo helps you build meaningful spiritual rhythms and daily practices that deepen your relationship with God. With our beautifully designed interface and thoughtful features, staying consistent with your spiritual practices has never been easier.
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/jszeszes-projects/v0-follo-website-design)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.dev-black?style=for-the-badge)](https://v0.dev/chat/projects/dqIOYM6WmjE)
+## 🌟 Key Features
 
-## Overview
+### 📖 Immersive Bible Reading
+- **Two Reading Experiences**
+  - Verse-by-verse study for deep reflection
+  - Continuous reading mode for immersive scripture engagement
+- **ESV Bible Integration** for accurate, readable scripture
+- **Progress Tracking** to help you stay consistent
 
-This repository will stay in sync with your deployed chats on [v0.dev](https://v0.dev).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.dev](https://v0.dev).
+### 🎯 Spiritual Practice Tracking
+- Build and maintain your Rule of Life
+- Track daily, weekly, and monthly spiritual rhythms
+- Monitor your consistency and growth
+- Set personalized reminders for your practices
 
-## Deployment
+### 📅 Reading Plans
+- Structured reading schedules
+- Track your progress
+- Multiple completion tracking
+- Stay motivated with progress statistics
 
-Your project is live at:
+### 🌓 Beautiful Design
+- Clean, modern interface
+- Dark and light themes (defaults to dark mode)
+- Thoughtfully designed for focus
+- Distraction-free reading experience
 
-**[https://vercel.com/jszeszes-projects/v0-follo-website-design](https://vercel.com/jszeszes-projects/v0-follo-website-design)**
+## 🚀 Your Spiritual Growth Journey
 
-## Build your app
+Follo is more than just a Bible app - it's your companion for spiritual growth. Whether you're:
 
-Continue building your app on:
+- Starting a new daily reading habit
+- Deepening your existing spiritual practices
+- Looking for structure in your devotional time
+- Wanting to track your spiritual journey
 
-**[https://v0.dev/chat/projects/dqIOYM6WmjE](https://v0.dev/chat/projects/dqIOYM6WmjE)**
+Follo provides the tools and support you need to stay consistent and grow in your faith.
 
-## How It Works
+## 🔒 Privacy & Trust
 
-1. Create and modify your project using [v0.dev](https://v0.dev)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+Your spiritual journey is personal. That's why Follo:
+
+- Keeps your data private and secure
+- Works offline for uninterrupted access
+- Never shares your personal information
+- Provides transparent privacy policies
+
+## 📱 Download
+
+Coming soon to the App Store!
+
+## 🛠️ Tech Stack
+
+- **Framework**: Next.js 15
+- **Styling**: Tailwind CSS
+- **Theme**: next-themes (dark mode default)
+- **UI Components**: Custom components with shadcn/ui
+- **Icons**: Lucide React
+- **TypeScript**: Full type safety
+
+## 🚀 Getting Started
+
+1. Clone the repository
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+3. Run the development server:
+   ```bash
+   npm run dev
+   ```
+4. Open [http://localhost:3000](http://localhost:3000) in your browser
+
+## 📄 License
+
+This project is private and proprietary.
+
+---
+
+*FOLLO helps you build spiritual rhythms and daily practices to enrich your faith journey.*
