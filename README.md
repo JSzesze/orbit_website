@@ -1,52 +1,35 @@
-# Follo - Your Spiritual Journey Companion
+# Orbit - Intentional Connection Within Your God-Given Sphere of Influence
 
-Follo helps you build meaningful spiritual rhythms and daily practices that deepen your relationship with God. With our beautifully designed interface and thoughtful features, staying consistent with your spiritual practices has never been easier.
+Orbit helps you maintain meaningful relationships within your sphere of influence. Relationships move closer and farther just like objects in orbit. Orbit keeps the people God has entrusted to you within view so that distance never turns into disconnection.
 
 ## 🌟 Key Features
 
-### 📖 Immersive Bible Reading
-- **Two Reading Experiences**
-  - Verse-by-verse study for deep reflection
-  - Continuous reading mode for immersive scripture engagement
-- **ESV Bible Integration** for accurate, readable scripture
-- **Progress Tracking** to help you stay consistent
+### 👥 Relationship Management
+- **Weekly Check-in Planner** — Schedule meaningful touchpoints, whether you are meeting in person or reaching out virtually, and keep them all visible in one place
+- **Faithful Progress Tracking** — Weekly goals and the Orbit check-in bar reveal who you have connected with and who might need a nudge this week
+- **Quick Actions for Everyday Ministry** — Import your contacts, assign roles, and start an intentional follow-up with just a tap
 
-### 🎯 Spiritual Practice Tracking
-- Build and maintain your Rule of Life
-- Track daily, weekly, and monthly spiritual rhythms
-- Monitor your consistency and growth
-- Set personalized reminders for your practices
+### 📝 Context-Rich Notes
+- **Capture What God is Doing** — Record prayer requests and log the details that spark deeper conversation
+- **Follow-up Cues** — Track the commitments you have made so nothing slips through the cracks after a great conversation
+- **History at a Glance** — Review past check-ins to celebrate growth and discern the next faithful step together
 
-### 📅 Reading Plans
-- Structured reading schedules
-- Track your progress
-- Multiple completion tracking
-- Stay motivated with progress statistics
+### 🎯 Intentional Ministry
+- Stay rooted in your calling by noticing who is near and who is drifting
+- Prayerfully decide how to invest your limited time and energy
+- Cultivate rhythms of presence, prayer, and care—no matter how far you are from the people you love
 
-### 🌓 Beautiful Design
-- Clean, modern interface
-- Dark and light themes (defaults to dark mode)
-- Thoughtfully designed for focus
-- Distraction-free reading experience
-
-## 🚀 Your Spiritual Growth Journey
-
-Follo is more than just a Bible app - it's your companion for spiritual growth. Whether you're:
-
-- Starting a new daily reading habit
-- Deepening your existing spiritual practices
-- Looking for structure in your devotional time
-- Wanting to track your spiritual journey
-
-Follo provides the tools and support you need to stay consistent and grow in your faith.
+## 🌓 Beautiful Design
+- Clean, modern interface with dark mode (pure black background)
+- Thoughtfully designed for focus and intentionality
+- Distraction-free experience for meaningful relationship management
 
 ## 🔒 Privacy & Trust
 
-Your spiritual journey is personal. That's why Follo:
-
-- Keeps your data private and secure
-- Works offline for uninterrupted access
-- Never shares your personal information
+Your relationships are sacred. That's why Orbit:
+- Keeps all data local on your device
+- Requires no login or account creation
+- Never collects personal information
 - Provides transparent privacy policies
 
 ## 📱 Download
@@ -81,4 +64,4 @@ This project is private and proprietary.
 
 ---
 
-*FOLLO helps you build spiritual rhythms and daily practices to enrich your faith journey.*
+*Orbit helps you honor the relationships God has placed within your sphere of influence—intentionally, prayerfully, and consistently.*
