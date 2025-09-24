@@ -7,9 +7,9 @@ import { Inter } from "next/font/google"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Follo - Your Spiritual Journey Companion",
+  title: "Orbit - Intentional connection within your God-given sphere of influence",
   description:
-    "Follo helps you build meaningful spiritual rhythms and daily practices that deepen your relationship with God.",
+    "Relationships move closer and farther just like objects in orbit. Orbit keeps the people God has entrusted to you within view so that distance never turns into disconnection.",
 }
 
 export default function RootLayout({
