@@ -15,7 +15,7 @@ export default function PrivacyPolicy() {
       <main className="prose prose-zinc dark:prose-invert max-w-none">
         <h1 className="text-3xl font-bold mt-0 mb-6">Privacy Policy</h1>
 
-        <p className="text-sm text-zinc-500 dark:text-zinc-400">Last Updated: September 23, 2025</p>
+        <p className="text-sm text-zinc-500 dark:text-zinc-400">Last Updated: January 7, 2026</p>
 
         <h2 className="text-xl font-semibold mt-10 mb-4">Introduction</h2>
         <p>
@@ -98,8 +98,11 @@ export default function PrivacyPolicy() {
 
         <h2 className="text-xl font-semibold mt-10 mb-4">Contact Us</h2>
         <p>
-          If you have any questions about this Privacy Policy or the Orbit app, please contact us through the
-          information provided on our main page. We respond to inquiries as quickly as possible.
+          If you have any questions about this Privacy Policy or the Orbit app, please contact us at{" "}
+            <a href="mailto:jason@follo.dev" className="text-blue-600 dark:text-blue-400 hover:underline">
+            jason@follo.dev
+          </a>
+          . We respond to inquiries as quickly as possible.
         </p>
       </main>
     </div>
