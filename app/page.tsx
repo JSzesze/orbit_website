@@ -83,6 +83,11 @@ export default function Home() {
             relationships around them. Join the journey and help us build the tools that keep your orbit connected.
           </p>
 
+          <h2 className="text-xl font-semibold mt-10 mb-4">Support</h2>
+          <p>
+            Please contact us at <a href="mailto:jason@follo.dev" className="text-blue-600 dark:text-blue-400 hover:underline">jason@follo.dev</a>. We respond to inquiries as quickly as possible.
+          </p>
+
           <hr className="my-10 border-zinc-200 dark:border-zinc-800" />
 
           <p className="text-sm text-zinc-500 dark:text-zinc-400">

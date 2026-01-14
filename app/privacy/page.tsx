@@ -26,74 +26,40 @@ export default function PrivacyPolicy() {
 
         <h2 className="text-xl font-semibold mt-10 mb-4">Summary</h2>
         <p>
-          Orbit is a simple iOS app that does not collect personal data, use analytics, require login, or store any
-          information about users. All data remains on your device and is not transmitted to our servers.
+          Orbit is an iOS app that helps you manage personal relationships. You may optionally sign in with Apple to enable cloud backup. When you do, your data (contacts, events, goals, notes, and settings) is stored securely on our servers. Without sign-in, all data remains on your device only.
         </p>
 
         <h2 className="text-xl font-semibold mt-10 mb-4">Information We Collect</h2>
-        <p>We do not collect any personal information from users of the Orbit app.</p>
         <ul>
           <li>
-            <strong>No Personal Data:</strong> We do not collect names, email addresses, or any other personal
-            information.
+            <strong>Apple Sign-In:</strong> When you sign in with Apple, we receive your Apple User ID and optionally your name and email (if you choose to share them).
           </li>
           <li>
-            <strong>No Analytics:</strong> We do not use tracking tools, analytics, or crash reporting to monitor your
-            app usage.
+            <strong>Contact Information:</strong> You may import contacts from your device. This data is stored locally and, if you enable backup, uploaded to our secure cloud servers.
           </li>
           <li>
-            <strong>No Login Required:</strong> The app does not require registration, login, or account creation to
-            access any features.
-          </li>
-          <li>
-            <strong>No Data Transmission:</strong> No data is sent from your device to our servers or any third-party
-            services.
+            <strong>App Data:</strong> Events, notes, goals, and settings you create are stored locally on your device and, with your consent, backed up to our servers.
           </li>
         </ul>
 
         <h2 className="text-xl font-semibold mt-10 mb-4">How We Use Your Information</h2>
         <p>
-          Since we do not collect any personal information, there is no data to use. The Orbit app functions entirely
-          locally on your device without requiring any user data.
+          Your data is used solely to provide app functionality and cloud backup/sync. We do not sell, share, or use your data for advertising or analytics purposes.
         </p>
 
         <h2 className="text-xl font-semibold mt-10 mb-4">Data Storage and Security</h2>
         <p>
-          All data remains stored locally on your iOS device. We do not have access to any data stored on your device.
-          The app uses standard iOS security features to protect any local data. We do not maintain any servers or
-          databases that store user information.
-        </p>
-
-        <h2 className="text-xl font-semibold mt-10 mb-4">Third-Party Services</h2>
-        <p>
-          The Orbit app does not integrate with any third-party services that would collect or process your personal
-          data. We do not use analytics, advertising networks, or any external data processing services.
+          Local data is stored on your iOS device using standard security features. Cloud backups are stored securely on Convex servers. You can delete your account and all cloud data at any time from within the app.
         </p>
 
         <h2 className="text-xl font-semibold mt-10 mb-4">App Permissions</h2>
         <p>
-          The Orbit app requests minimal permissions necessary for basic functionality. We do not request access to
-          your contacts, location, camera, microphone, or other sensitive data. Any permissions granted are used
-          solely for the app's core features and are not shared with third parties.
+          Orbit may request access to your <strong>Contacts</strong> (to import contact information) and <strong>Calendar</strong> (to sync events). These permissions are optional and used only for their stated purpose.
         </p>
 
         <h2 className="text-xl font-semibold mt-10 mb-4">Your Rights</h2>
         <p>
-          Since we do not collect any personal data, there is no data to access, modify, or delete. You have complete
-          control over your app experience and any data stored locally on your device.
-        </p>
-
-        <h2 className="text-xl font-semibold mt-10 mb-4">Children's Privacy</h2>
-        <p>
-          The Orbit app is safe for users of all ages. Since we do not collect any personal information, there are no
-          special considerations for children's privacy. The app does not require parental consent for any features.
-        </p>
-
-        <h2 className="text-xl font-semibold mt-10 mb-4">Changes to This Privacy Policy</h2>
-        <p>
-          We may update this policy from time to time. Any changes will be posted on this page with an updated
-          "Last Updated" date. Since we do not collect contact information, we cannot notify you directly of changes.
-          We recommend checking this page periodically for updates.
+          You can delete your account and all associated data at any time from the app settings (My Card → Edit Profile → Delete Account). This permanently removes all your data from our servers.
         </p>
 
         <h2 className="text-xl font-semibold mt-10 mb-4">Contact Us</h2>
