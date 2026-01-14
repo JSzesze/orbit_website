@@ -15,7 +15,7 @@ export default function PrivacyPolicy() {
       <main className="prose prose-zinc dark:prose-invert max-w-none">
         <h1 className="text-3xl font-bold mt-0 mb-6">Privacy Policy</h1>
 
-        <p className="text-sm text-zinc-500 dark:text-zinc-400">Last Updated: January 7, 2026</p>
+        <p className="text-sm text-zinc-500 dark:text-zinc-400">Last Updated: January 14, 2026</p>
 
         <h2 className="text-xl font-semibold mt-10 mb-4">Introduction</h2>
         <p>
